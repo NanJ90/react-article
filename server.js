@@ -23,7 +23,7 @@ app.use(express.static("public"));
 // -------------------------------------------------
 
 // MongoDB Configuration configurationmongodb://admin:reactrocks@ds023593.mlab.com:23593/heroku_pg676kmk
-mongoose.connect();
+mongoose.connect("mongodb://heroku_1mt28768:b16jtmlqf8b68ek99g9pi0jmnd@ds119565.mlab.com:19565/heroku_1mt28768");
 var db = mongoose.connection;
 
 db.on("error", function(err) {
