@@ -3,7 +3,7 @@
 New York Articles - using MongoDB, Express.js, React.js, and Node.js( MERN)
 
 ![screenshot of app]
-(./public/img/screenshot.png)
+(https://github.com/NanJ90/react-article/blob/master/public/img/screenshot.png)
 
 ###How to install:
 * Clone or fork this repo
